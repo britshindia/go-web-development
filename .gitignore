@@ -1,0 +1,2 @@
+# Do not include these files for version management
+*.exe
